@@ -1,4 +1,9 @@
-# Find the highest product of three numbers
+# Find the highest product of three numbers in a list.
+
+For eg.
+
+        [5, -2, 3] -> -30
+        [5, -2, 3, 1, -1, 4] -> 60
 
 ## Constraints
 * Is the input a list of integers?
